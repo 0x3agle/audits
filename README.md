@@ -18,9 +18,9 @@ In this repository, you will find a collection of my audit reports for various s
 
 Please note that the audit reports reflect my expertise and analysis at the time of the audit. As the blockchain ecosystem evolves, new vulnerabilities may emerge. Therefore, it's important to consider any subsequent updates or changes to the smart contract code.
 
-|Date (DD-MM-YYYY)|Project Name|Type|Method|
-|---|---|---|---|
-|27-05-2023|EarlyMint|NFT|Solo|
+|Date (DD-MM-YYYY)|Project Name|Type|Method|Report|
+|---|---|---|---|---|
+|27-05-2023|EarlyMint|NFT|Solo|[Here](https://github.com/0x3agle/audits/blob/main/solo/EarlyMint.md)|
 
 ## Contact Me
 
