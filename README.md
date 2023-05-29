@@ -20,7 +20,7 @@ Please note that the audit reports reflect my expertise and analysis at the time
 
 |Date (DD-MM-YYYY)|Project Name|Type|Method|Report|
 |---|---|---|---|---|
-|27-05-2023|EarlyMint|NFT|Solo|[Here](https://github.com/0x3agle/audits/blob/main/solo/EarlyMint.md)|
+|27-05-2023|EarlyMint|NFT|Solo - Contest|[Here](https://github.com/0x3agle/audits/blob/main/solo/EarlyMint.md)|
 
 ## Contact Me
 
