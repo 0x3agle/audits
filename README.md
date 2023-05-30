@@ -27,7 +27,7 @@ Please note that the audit reports reflect my expertise and analysis at the time
 If you have any questions, inquiries, or need assistance with smart contract auditing or security-related services, please feel free to contact me:
 
 - Discord: 3agle#3197
-- GitHub: [0x3agle](https://github.com/0x3agle)
-- Twitter: [0x_3agle](https://twitter.com/0x_3agle)
+- [GitHub](https://github.com/0x3agle)
+- [Twitter](https://twitter.com/0x_3agle)
 
 I look forward to working with you and ensuring the security and success of your protocol!
