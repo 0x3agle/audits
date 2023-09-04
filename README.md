@@ -27,7 +27,10 @@ Just so you know, the audit reports reflect my expertise and analysis at the tim
 If you have any questions, or inquiries, or need assistance with smart contract auditing or security-related services, please feel free to contact me:
 
 - Discord Username: _3agle
+- [Cantina](https://cantina.xyz/u/3agle)
+- [Code4rena](https://code4rena.com/@3agle)
 - [GitHub](https://github.com/0x3agle)
 - [Twitter](https://twitter.com/X3agleX)
+
 
 I look forward to working with you and ensuring the security and success of your protocol!
