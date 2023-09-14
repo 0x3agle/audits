@@ -1,6 +1,6 @@
 
 # 🟡 An attacker can preemptively block the configuration of boost values or the liquidation pair in `VaultBooster` through front-running
-##Lines of code
+## Lines of code
 - https://github.com/GenerationSoftware/pt-v5-vault-boost/blob/9d640051ab61a0fdbcc9500814b7f8242db9aec2/src/VaultBooster.sol#L142-L165
 - https://github.com/GenerationSoftware/pt-v5-vault-boost/blob/9d640051ab61a0fdbcc9500814b7f8242db9aec2/src/VaultBooster.sol#L211-L237
 ## Impact
