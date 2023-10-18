@@ -1,36 +1,35 @@
 ![W Banner](https://github.com/0x3agle/audits/assets/91771249/af9f040c-e889-42c2-9bae-3b71959025a1)
 
 ---
-# Public Audits
-Welcome to the Audits repository! As a solo auditor specializing in smart contract security, my goal is to provide comprehensive audits and reviews to ensure the safety and reliability of your smart contracts.
 
-## Audit Reports
+# Public Audits by 3agle 🛡️
+Welcome to my audit repository! I'm a dedicated smart contract auditor, committed to ensuring the integrity and safety of smart contracts in the ever-evolving blockchain landscape.
 
-In this repository, you will find a collection of my audit reports for various smart contracts. Each report provides a detailed analysis of the contract's security vulnerabilities, potential exploits, and recommendations for improvement. The reports are designed to be informative and accessible, helping project owners and developers understand the findings and implement necessary enhancements.
+## Audit Chronicles 📚
+In this space, you'll discover a curated collection of my audit reports. Each is a testament to my thorough approach, highlighting vulnerabilities, potential exploits, and actionable recommendations.
 
-Just so you know, the audit reports reflect my expertise and analysis at the time of the audit. As the blockchain ecosystem evolves, new vulnerabilities may emerge. Therefore, it's important to consider any subsequent updates or changes to the smart contract code.
+⚠️ Keep in mind: these reports capture the blockchain environment at the time of the audit. With rapid advancements, always be vigilant for emerging vulnerabilities!
 
 ### 2023
-|Date|Duration|Project Name|Description|Method|Report|
-|---|---|---|---|---|---|
-|27 May|4 Days|EarlyMint|Conducted an in-depth audit, identifying 1 Critical issue, 2 High priority issues, and 3 Medium priority issues. Received a reward of $450 and achieved the #1 Rank.|Solo|[📄](https://github.com/0x3agle/audits/blob/main/solo/EarlyMint.md)|
-|30 May|36 Days|Maia Dao Ecosystem|Collaborated as part of the RED LOTUS by the R.E.A.C.H. team for the code4rena challenge. Achieved a commendable #20 rank among 150+ participants, securing a reward of $3,200.|Team|_Coming Soon_|
-|07 June|3 Days|Keepers Audit| Undertook an internship opportunity with Ginger Security for an NFT-based audit|Internship|[📄](https://www.priyamsoni.com/_files/ugd/33a2e5_ced27d705465460a9cd39ab5d9f89098.pdf)|
-|24 June|10 Days|Lybra Finance| Solo Audit on Code4rena. Rank: 44 out of 132. Reward: $200|Solo|[📄](https://github.com/code-423n4/2023-06-lybra-findings/issues/765)|
-|21 July|7 Days|Arcade.xyz| Solo Audit on Code4rena. Rank: 32 out of 60. Reward: $319|Solo|_Coming Soon_|
-|3 August|5 Days|Pooltogether V5: Part Duex| Solo Audit on Code4rena. Rank: 2 out of 45. Reward: $3,014|Solo|[📄](https://github.com/0x3agle/audits/blob/main/solo/PoolTogether_Part2.md)|
+
+| Project | Overview | Report |
+|---------|----------|--------|
+| **EarlyMint** (27 May, 4 Days) | 🚩1 Critical, 🟠2 High, 🟡3 Medium issues. 🏆Ranked #1. 💰$450 reward. | [📄](https://github.com/0x3agle/audits/blob/main/solo/EarlyMint.md) |
+| **Maia Dao Ecosystem** (30 May, 36 Days) | Team collaboration with RED LOTUS for code4rena. 🏆Ranked #20/150+. 💰$3,200 reward. | _Coming Soon_ |
+| **Keepers Audit** (07 June, 3 Days) | Internship with Ginger Security. NFT-based audit. | [📄](https://www.priyamsoni.com/_files/ugd/33a2e5_ced27d705465460a9cd39ab5d9f89098.pdf) |
+| **Lybra Finance** (24 June, 10 Days) | Solo audit on Code4rena. 🏆Ranked #44/132. 💰$200 reward. | [📄](https://github.com/code-423n4/2023-06-lybra-findings/issues/765) |
+| **Arcade.xyz** (21 July, 7 Days) | Solo audit on Code4rena. 🏆Ranked #32/60. 💰$319 reward. | _Coming Soon_ |
+| **Pooltogether V5: Part Duex** (3 August, 5 Days) | Solo audit on Code4rena. 🏆Ranked #2/45. 💰$3,014 reward. | [📄](https://github.com/0x3agle/audits/blob/main/solo/PoolTogether_Part2.md) |
 
 
+## Connect with 3agle 🌐
+Interested in collaborating or seeking expert audit insights? Reach out via:
 
-## Contact Me
-
-If you have any questions, or inquiries, or need assistance with smart contract auditing or security-related services, please feel free to contact me:
-
-- Discord Username: _3agle
+- Discord: _3agle
 - [Cantina](https://cantina.xyz/u/3agle)
 - [Code4rena](https://code4rena.com/@3agle)
 - [GitHub](https://github.com/0x3agle)
 - [Twitter](https://twitter.com/X3agleX)
 
+Here's to a secure blockchain future! 🔒
 
-I look forward to working with you and ensuring the security and success of your protocol!
