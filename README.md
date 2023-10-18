@@ -5,10 +5,13 @@
 # Public Audits by 3agle 🛡️
 Welcome to my audit repository! I'm a dedicated smart contract auditor, committed to ensuring the integrity and safety of smart contracts in the ever-evolving blockchain landscape.
 
+[![Static Badge](https://img.shields.io/badge/Get%20A%20Quote-white?logo=ethereum&logoColor=black)](https://7pw7xv0vzq2.typeform.com/to/PtOV0uBJ)
+
 ## Audit Chronicles 📚
 In this space, you'll discover a curated collection of my audit reports. Each is a testament to my thorough approach, highlighting vulnerabilities, potential exploits, and actionable recommendations.
 
 ⚠️ Keep in mind: these reports capture the blockchain environment at the time of the audit. With rapid advancements, always be vigilant for emerging vulnerabilities!
+
 
 ### 2023
 
@@ -23,7 +26,9 @@ In this space, you'll discover a curated collection of my audit reports. Each is
 
 
 ## Connect with 3agle 🌐
-Interested in collaborating or seeking expert audit insights? Reach out via:
+Interested in collaborating or seeking expert audit insights? 
+
+[![Static Badge](https://img.shields.io/badge/Get%20A%20Quote-white?logo=ethereum&logoColor=black)](https://7pw7xv0vzq2.typeform.com/to/PtOV0uBJ) or Reach out via:
 
 - Discord: _3agle
 - [Cantina](https://cantina.xyz/u/3agle)
