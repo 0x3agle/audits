@@ -37,6 +37,7 @@ Below are the audit reports showcasing my meticulous approach to identifying vul
 
 3. **Medium Risk Issues**:
    - Impacts on protocol functionality or availability without direct asset risk. Theoretical value leak under specific assumptions.
+   - Deviation from intended functionality due to edge cases.
 
 4. **High Risk Issues**:
    - Direct or indirect asset risk with a feasible attack path.
