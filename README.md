@@ -18,7 +18,6 @@ In this space, you'll discover a curated collection of my audit reports. Each is
 | Project | Overview | Report |
 |---------|----------|--------|
 | **EarlyMint** (27 May, 4 Days) | 🚩1 Critical, 🟠2 High, 🟡3 Medium issues. 🏆Ranked #1. | [🟢](https://github.com/0x3agle/audits/blob/main/solo/EarlyMint.md) |
-| **Maia Dao Ecosystem** (30 May, 36 Days) | Team collaboration with RED LOTUS for code4rena. 🏆Ranked #20/150+. | ⚪ |
 | **Keepers Audit** (07 June, 3 Days) | Internship with Ginger Security. NFT-based audit. | [🟢](https://www.priyamsoni.com/_files/ugd/33a2e5_ced27d705465460a9cd39ab5d9f89098.pdf) |
 | **Lybra Finance** (24 June, 10 Days) | Solo audit on Code4rena. 🏆Ranked #44/132. | [🟢](https://github.com/code-423n4/2023-06-lybra-findings/issues/765) |
 | **Arcade.xyz** (21 July, 7 Days) | Solo audit on Code4rena. 🏆Ranked #32/60. | ⚪  |
