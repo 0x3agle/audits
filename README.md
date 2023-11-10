@@ -22,8 +22,7 @@ Below are the audit reports showcasing my meticulous approach to identifying vul
 | **Arcade.xyz** | 21 July, 7 Days | Solo audit on Code4rena. Ranked #32 out of 60. | Pending |
 | **Pooltogether V5: Part Duex** | 3 August, 5 Days | Solo audit on Code4rena. Ranked #2 out of 45. | [Available](https://github.com/0x3agle/audits/blob/main/solo/PoolTogether_Part2.md) |
 | **Chainlink Staking v0.2** | 26 August, 18 Days | Solo audit on Code4rena. | Pending |
-| **Venus Prime** | 29 September, 6 Days | Solo audit on Code4rena. | Pending |
-| **ENS** | 6 October, 6 Days | Solo audit on Code4rena. | Pending |
+| **Venus Prime** | 29 September, 6 Days | Solo audit on Code4rena. | Coming Soon |
 
 ---
 
