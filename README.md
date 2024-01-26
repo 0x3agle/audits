@@ -9,6 +9,11 @@ Specializing in Smart Contract Auditing and Invariant Testing.
 
 > ⚠️ Remember: These reports capture the blockchain environment at their respective times. Stay updated for emerging vulnerabilities!
 
+
+## 2024
+| Project  | Overview | Report Status |
+|---------|----------|---------------|
+||||
 ## 2023
 
 | Project  | Overview | Report Status |
